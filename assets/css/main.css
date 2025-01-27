@@ -1,4 +1,12 @@
+/* 添加字体定义 */
+@font-face {
+    font-family: 'HYTMR55W';
+    src: url('/assets/fonts/hytmr55w.ttf') format('truetype');
+  }
+/* 应用到整个页面 */
 body {
+    font-family: 'HYTMR55W', sans-serif;
+}body {
     margin: 0;
     background: #2e2e2c;
 }
