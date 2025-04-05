@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /src/
-Disallow: /.git/
 Crawl-delay: 5
 Sitemap: https://hslzz.cn/sitemap.xml
